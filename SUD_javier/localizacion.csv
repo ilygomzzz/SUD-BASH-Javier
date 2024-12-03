@@ -1,0 +1,7 @@
+BOSSEN01,Empiezas tu andadura en la espesura del bosque.,INICIO,BOSSEN02,BOSSEN
+BOSSEN02,Primera parte del bosque.,BOSSEN01,BOSSEN03,BOSSEN
+BOSSEN03,Corazon del bosque.,BOSSEN02,TIENDA01,BOSSEN
+TIENDA01,Tienda Del Mago Oz,BOSSEN03,CUESEN01,TIENDA
+CUESEN01,"En esta zona hay riscos y piedras gigantes, que pueden dar lugar a pequenyas cuevas.",TIENDA01,CUESEN02,CUESEN
+CUESEN02,La entrada de la cueva resulta sobrecogedora.,CUESEN01,FINAL,CUESEN
+FINAL,Estas en la parte mas interior de la cueva,CUESEN02,FIN,CUESEN

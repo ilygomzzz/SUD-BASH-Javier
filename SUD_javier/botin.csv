@@ -1,0 +1,14 @@
+1,Espada_de_madera,0,1,0,10,Fighter,Mano
+2,Escudo_de_madera,10,0,0,10,Fighter,Mano
+3,Armadura_de_cuero,5,0,0,30,Fighter,Torso
+4,Espada_de_silex,0,2,0,20,Fighter,Mano
+5,Armadura_de_cuero_tachonado,10,0,0,40,Fighter,Torso
+6,Pocion_vida,20,0,0,20,All,Bolso
+7,Armadura_Metalica,20,0,0,60,Fighter,Torso
+8,Hacha_de_Hierro,0,3,0,60,Fighter,Mano
+9,Tunica_Magica_Herrada,10,5,20,60,Mago,Torso
+10,Bara_Magica,0,3,30,10,Mago,Mano
+11,Tunica_Magica,5,3,30,20,Mago,Torso
+12,Monedas,0,0,0,0,Special,Inventario Especial
+13,Antorcha,0,0,0,0,Speciall,Mano
+14,Pocion_mana,0,0,40,20,Mago,Bolso
